@@ -1,0 +1,57 @@
+button a{
+	text-decoration: none;
+	color: white;	
+}
+
+button{
+
+	text-decoration: none;
+	color: white;
+	background-color: blue;
+	padding: 7px;
+
+
+	
+}
+
+
+button:hover{
+	background-color: #26AAB2;
+}
+
+.insertar{
+	text-decoration: none;
+	color: white;
+	background-color: black;
+	padding: 7px;
+	border-radius: 40px;
+}
+.insertar:hover{
+	background-color: #6C726A;
+}
+
+i.fa-trash-alt{
+	color:red;
+	font-size: 1rem;
+}
+
+i.fa-pencil-alt{
+
+	color:black;
+	font-size: 1rem;
+
+}
+
+table{
+	margin: 10%auto;
+}
+
+.insertarProducto{
+
+	text-decoration: none;
+	color: white;
+	background-color: black;
+	padding: 7px;
+	border-radius: 40px;
+
+}
